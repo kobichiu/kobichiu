@@ -1,6 +1,5 @@
 ## Hallo, I am Kobi :)
 
-![bar](/bar.jpg)
 <!--
 **kobichiu/kobichiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
