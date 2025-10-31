@@ -2,7 +2,7 @@
 
 ![top bar](/bar.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?username=<kobichiu>&color=blue)
+![](https://komarev.com/ghpvc/?username=kobichiu&color=blueviolet&style=for-the-badge)
 
 <!--
 **kobichiu/kobichiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
