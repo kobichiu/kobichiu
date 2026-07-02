@@ -10,8 +10,3 @@
 Here are some ideas to get you started:
 -->
 
-I am Kobi, a fresh graduate based in Germany.  
-I am aspired to become a web developer.  
-My main tech stack is JavaScript, React, (Tailwind) CSS, NodeJS.  
-My favourite IDE is WebStorm.  
-
